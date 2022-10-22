@@ -1,0 +1,6 @@
+Comment générer une chaine de bit random ?
+on prend n le nombre de bits que doit contenir notre chaîne et on utilise un registre QuantumRegiste avec un bit dedans  et un autre registre  ClassicalRegister avec n bits classique ou on mettra le résultat du bit quantique à chaque shot .
+l’idée c’est d’utiliser the hadamrd gate , on sait que on peut avoir à la fin soit un 1 ou un 0 
+
+
+
